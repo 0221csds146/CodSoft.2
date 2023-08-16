@@ -1,5 +1,5 @@
 # CodSoft.2
-Task 1: "SALES  PREDICTION" for CodSoft Internship! 
+Task 2: "SALES  PREDICTION" for CodSoft Internship! 
 
 "I'm excited to share my second project on sales prediction on GitHub. I completed this project during my internship at CodSoft, where I was tasked with using machine learning to predict future sales for a retail company.
 
